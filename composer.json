@@ -1,13 +1,13 @@
 {
-    "name": "faisalman/simple-excel-php",
+    "name": "sanzhumu/simple-excel-php",
     "type": "library",
     "description": "Easily parse / convert / write between Microsoft Excel XML / CSV / TSV / HTML / JSON / etc formats",
     "keywords": ["excel", "spreadsheet", "document", "xml", "csv", "tsv", "html", "json", "parser", "converter", "writer"],
-    "homepage": "http://faisalman.github.com/simple-excel-php",
+    "homepage": "http://sanzhumu.github.com/simple-excel-php",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/faisalman/simple-excel-php.git"
+            "url": "https://github.com/sanzhumu/simple-excel-php.git"
         }
     ],
     "license": "MIT",
